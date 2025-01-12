@@ -1,2 +1,2 @@
 # rivar
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/ritvikvarghese/rivar)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ritvikvarghese)](https://github.com/ritvikvarghese/rivar)
